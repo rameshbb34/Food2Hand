@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: burlywood;
+}
+
+form label{
+  display: inline-block;
+  width: 200px;
+}
+
+form div{
+  margin: 10px;
+}
+
+.form-container{
+  margin: 10px;
+}
+
+.rest-container{
+  background-color:aqua ;
+}
+.public-container{
+  background-color: bisque;
+}
+.ngo-container{
+  background-color: chocolate;
+}
+
+nav{
+  font-size: 2rem;
+  background-color: rgb(223, 255, 80);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+a{
+  text-decoration: none;
+}
+
+.hide{
+  display:none;
+}
